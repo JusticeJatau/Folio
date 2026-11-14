@@ -1,0 +1,6 @@
+{
+  "name": "Folio",
+  "description": "Simple local-first todo and notes app powered by Room and MVVM, with export to PDF, DOCX, and TXT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
